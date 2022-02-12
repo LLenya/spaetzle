@@ -1,4 +1,4 @@
-id,name_short,name,sex,religion,birth,education,position,kids,subject,party,twitter,youtube,facebook,type
+id,short_name,name,sex,religion,birth,education,position,kids,subject,party,twitter,youtube,facebook,type
 co,Oezdemir,Cem Oezdemir,2,,1965,1,1,2,3,Grüne,317191,,162573,1
 bs,Strasser,Benjamin Strasser,2,2,1987,3,2,,2,FDP,5811,287,3372,1
 ft,Toncar,Florian Toncar,2,1,1979,2,2,3,2,FDP,8587,99,4478,1
